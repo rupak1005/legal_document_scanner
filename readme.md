@@ -16,12 +16,7 @@ F --> H[Named Entities Output]
 
 ```
 ## Live Demo
-
-Try out the Legal Document Summarization model with our interactive demo hosted on Hugging Face Spaces:
-
-[![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-blue)](https://shresthasingh-legal-doc-summarization.hf.space)
-
-
+legaldocumentscanner.streamlit.app
 ## Dive into the World of Automated Legal Insights!
 
 This repository empowers you to effortlessly analyze legal documents using the cutting-edge capabilities of Natural Language Processing (NLP).  Say goodbye to tedious manual reviews and unlock valuable insights hidden within complex legal text.
