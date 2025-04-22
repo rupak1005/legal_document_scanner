@@ -44,7 +44,7 @@ This repository empowers you to effortlessly analyze legal documents using the c
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/shresthasingh1501/legal_document_analysis.git
+   git clone https://github.com/rupak1005/legal_document_analysis.git
    ```
 
 2. **Install Dependencies:**
